@@ -1,0 +1,61 @@
+30.09.2014 IFJ/Google
+
+Get your guide
+
+  Mobile in der Multiscreenwelt
+  - Mobile first
+  - Does every screen has the same function (mobile, native app, desktop) - use the content accordingly
+  - Make or Buy
+  - prepare App Launch
+  - unique content is key
+
+
+  Make or buy
+  + inhouse knowledge
+  + you could get good exernal devs
+  - know how is lost
+  - price
+
+Cagri Merdan (Mobile Product Specialist @google)
+
+  background infos
+  - Mobile First vs Multi-Screen world
+  - 60% (50% mobile) of the devices connected to the internet are mobile devices
+  - Smartphones 1mrd / Tablets 217 Mio
+  - CH 2.8 internet enabled devices per person
+  - grub hub / hotel tonight
+  - Focus on one used case
+  - http://www.thinkwithgoogle.com/tools/mobile-purchase-journey.html
+  - http://think.withgoogle.com/mobileplanet/en/
+  - a succesful product should be used at least twice a day
+  - users are jumping from screen to screen -> unified exerience is demanded / remembering where the user was on one device so when   switching the device they will remain at the same place / cross devise
+
+  Design tricks / best practice
+  - principles of mobile site design: delight users and drive conversions
+  - time spent on sites 14% / time spent on Apps 86%
+  - Apps use: 20% other, 26% socil media, 40% games
+  - mobile page initial load time, max 5 seconds
+  - https://developers.google.com/speed/
+
+    Google input in 2011 for mobiel development
+      - prioritise content
+      - white space
+      - big buttons
+      - easy to convert
+    Today's principles:
+      - http://www.google.ch/think/multiscreen/whitepaper-sitedesign.html
+      - homepage & site navigation
+      - Site search (always on top)
+      - label the desktop site desktop site and not something like full site (avoid that mobile users think that their site is inferior)
+      - front end validations
+      - define the right input (number keyboard etc..)
+      - mobile-specific needs
+      - click to call
+      - progress bars
+      - guest checkout
+
+
+VentureLab
+-> Programm für China (und USA) / 2015 Graphmasters?
+www.ifj.ch/kurse
+www.ifj.ch/startimpuls
